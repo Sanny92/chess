@@ -1,0 +1,147 @@
+table{
+    border: black solid 1px;
+    border-collapse: collapse; /* убирает двойные границы */
+    margin: auto;
+}
+
+td{
+    width: 50px;
+    height: 50px;
+    border: black solid 1px;
+    text-align: center;
+    font-size: 36px;
+}
+td.cleen{
+    height: 20px;
+    width: 20px;
+    border: none;
+    background-color: #ebebeb;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**{*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: content-box;*/
+/*}*/
+/*.wrapper{*/
+/*    height: 100%;*/
+/*}*/
+/*.frame{*/
+
+/*}*/
+/*#field{*/
+/*    width: 340px;*/
+/*    height: 340px;*/
+/*    border: 5px solid black;*/
+/*    margin: auto;*/
+/*}*/
+
+/*.chess-block{*/
+/*    width: 40px;*/
+/*    height: 40px;*/
+/*    float: left;*/
+/*    background-color: #ffffff;*/
+/*}*/
+
+/*.chess-block-num{*/
+/*    width: 10px;*/
+/*    height: 40px;*/
+/*    float: left;*/
+/*    background-color: orangered;*/
+/*    text-align: center;*/
+
+
+/*}*/
+/*.chess-block-abc{*/
+/*    width: 40px;*/
+/*    height: 10px;*/
+/*    float: left;*/
+/*    background-color: orangered;*/
+
+/*}*/
+
+/*.chess-block-angle{*/
+/*    width: 10px;*/
+/*    height: 10px;*/
+/*    float: left;*/
+/*    background-color: #89ff17;*/
+/*}*/
+
+/*.bg-black{*/
+/*    background-color: rgba(79, 52, 52, 0.68);*/
+/*}*/
+/*.green{*/
+/*    background-color: rgba(0, 100, 0, 0.43);*/
+/*}*/
+
+/*.active{*/
+
+/*    background-image: url(../img/kon_b.png);*/
+/*    background-size: cover;*/
+/*    background-color: rgba(255, 165, 0, 0.23);*/
+/*}*/
+
+
